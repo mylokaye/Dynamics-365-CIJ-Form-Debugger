@@ -1,7 +1,5 @@
 # Dynamics 365 Form Debugger
 
-![image](https://repository-images.githubusercontent.com/1082475662/d07f2266-beae-4747-bfc8-2be84cf6efa2)
-
 Temporarily disables **Dynamics 365 Customer Insights Forms** cache, allowing you to test form changes quickly.
 
 Test, debug, and validate **Dynamics 365 forms** directly in **Microsoft Edge / Chrome**.
@@ -93,18 +91,16 @@ All functionality (cache toggle, form detection, and form checks) is performed e
 ## Legal Notice
 
 **Dynamics 365** and **Microsoft Edge** are registered trademarks of **Microsoft Corporation**.
-This extension, **Dynamics 365 Form Debugger**, is an **independent tool** created by **Pattens Tech** and is **not affiliated with, endorsed by, or sponsored by Microsoft Corporation** in any way.
+This extension, **Dynamics 365 Form Debugger**, is an **independent tool** created by **Mylo Kaye** and is **not affiliated with, endorsed by, or sponsored by Microsoft Corporation** in any way.
 All references to Microsoft products are used for informational and compatibility purposes only.
 
 ---
 
 ## Support & Feedback
 
-- 📧 [Contact Us](https://pattens.tech/contact)
-- 📚 [Extension Documentation](https://pattens.tech/dynamics-365-form-debugger)
 
 ---
 
-**Author:** Pattens Tech
+**Author:** Mylo Kaye
 **License:** Apache 2.0
 **Version:** 1.0.0
