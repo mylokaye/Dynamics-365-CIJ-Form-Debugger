@@ -6,6 +6,13 @@ Test, debug, and validate **Dynamics 365 forms** directly in **Microsoft Edge / 
 
 ---
 
+## Installation
+
+Install the extension from your browser's store:
+
+- **Chrome Web Store:** [Dynamics 365 Form Debugger](https://chromewebstore.google.com/detail/dynamics-365-form-debugge/kdhnliicfgopcijgepghgohnhafphohf?authuser=0&hl=en-GB)
+- **Microsoft Edge Add-ons:** [Dynamics 365 Form Debugger](https://microsoftedge.microsoft.com/addons/detail/dynamics-365-form-debugge/ceoaoafhphcpdokfdfkiilmndbepbbec)
+
 ## Overview
 
 **Dynamics 365 Form Debugger** is a lightweight browser extension designed for Dynamics 365 Marketing users, developers, and CRM specialists.
@@ -26,11 +33,12 @@ Everything runs **locally** — no data is collected, transmitted, or shared.
 - 🎨 **Visual feedback** - Info fields turn grey when extension is inactive
 - 🔒 **100% client-side** — no tracking, telemetry, or network calls
 
+
 ---
 
 ## How to Use
 
-1. Install the extension from the Edge Add-ons or Chrome Web Store.
+1. Install the extension from the links above.
 2. Open a Dynamics 365 form page, such as: `https://assets-*.mkt.dynamics.com/...`
 3. Click the **Dynamics 365 Form Debugger** icon in your browser toolbar.
 4. Toggle **"Activate extension"** to enable cache bypass.
